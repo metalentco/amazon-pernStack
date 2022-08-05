@@ -37,7 +37,7 @@ Get Particular Products send GET request to [https://express-amazon-clone-backen
  <img src="readme/pern-amazon-clone.png"/>
 
 ### Cons
- **Note: This website is not Mobile Friendly. If u run this Program in Computer That will be better. Media Query Only For Desktop**
+ **Note: This website is not Mobile Friendly. That would be better to run this program on computer. Media Query Only For Desktop**
  
 
 
